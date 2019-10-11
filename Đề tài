@@ -1,0 +1,2 @@
+Viết chương trình quản lý điểm (điểm quá trình, điểm thi, điểm tổng kết của môn học) của sinh viên trường đại học.
+Yêu cầu chương trình gồm đầy đủ các chức năng: Nhập mới, nhập thêm, chỉnh sửa, xóa, tính điểm trung bình các môn học theo hệ số tín chỉ, Phân loại sinh viên theo điểm trung bình, tìm kiếm, hiển thị thông tin trên màn hình, xuất kết quả tìm kiếm ra file excel (*.xls) hoặc giấy in
