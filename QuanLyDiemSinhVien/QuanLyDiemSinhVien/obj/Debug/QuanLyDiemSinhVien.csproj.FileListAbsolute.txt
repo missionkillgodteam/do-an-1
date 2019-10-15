@@ -1,0 +1,11 @@
+D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojAssemblyReference.cache
+D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DoiMatKhau.resources
+D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Form1.resources
+D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Login.resources
+D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.cache
+D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
