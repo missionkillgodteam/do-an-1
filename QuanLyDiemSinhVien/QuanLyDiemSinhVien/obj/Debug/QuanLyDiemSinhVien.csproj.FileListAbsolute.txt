@@ -9,3 +9,6 @@ D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDie
 D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.cache
 D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
 D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
+D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Khoa.resources
+D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.MonHoc.resources
+D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Lop.resources
