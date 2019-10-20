@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
     <Compile Include="Connect.cs" />
     <Compile Include="DoiMatKhau.cs">
       <SubType>Form</SubType>
@@ -85,6 +91,18 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLSV.Designer.cs">
+      <DependentUpon>QLSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyDiem.Designer.cs">
+      <DependentUpon>QuanLyDiem.cs</DependentUpon>
+    </Compile>
     <Compile Include="QuanLyDiemSinhVienDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -100,6 +118,35 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>QuanLyDiemSinhVienDataSet2.xsd</DependentUpon>
     </Compile>
+    <Compile Include="QuanLyDiemSinhVienDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyDiemSinhVienDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyDiemSinhVienDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyDiemSinhVienDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyDiemSinhVienDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyDiemSinhVienDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyDiemSinhVienDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyDiemSinhVienDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyNguoiDung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyNguoiDung.Designer.cs">
+      <DependentUpon>QuanLyNguoiDung.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="DoiMatKhau.resx">
       <DependentUpon>DoiMatKhau.cs</DependentUpon>
     </EmbeddedResource>
@@ -128,6 +175,15 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="QLSV.resx">
+      <DependentUpon>QLSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyDiem.resx">
+      <DependentUpon>QuanLyDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyNguoiDung.resx">
+      <DependentUpon>QuanLyNguoiDung.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -174,6 +230,50 @@
     </None>
     <None Include="QuanLyDiemSinhVienDataSet2.xss">
       <DependentUpon>QuanLyDiemSinhVienDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyDiemSinhVienDataSet3.xsc">
+      <DependentUpon>QuanLyDiemSinhVienDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyDiemSinhVienDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyDiemSinhVienDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyDiemSinhVienDataSet3.xss">
+      <DependentUpon>QuanLyDiemSinhVienDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyDiemSinhVienDataSet4.xsc">
+      <DependentUpon>QuanLyDiemSinhVienDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyDiemSinhVienDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyDiemSinhVienDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyDiemSinhVienDataSet4.xss">
+      <DependentUpon>QuanLyDiemSinhVienDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyDiemSinhVienDataSet5.xsc">
+      <DependentUpon>QuanLyDiemSinhVienDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyDiemSinhVienDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyDiemSinhVienDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyDiemSinhVienDataSet5.xss">
+      <DependentUpon>QuanLyDiemSinhVienDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyDiemSinhVienDataSet6.xsc">
+      <DependentUpon>QuanLyDiemSinhVienDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyDiemSinhVienDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyDiemSinhVienDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyDiemSinhVienDataSet6.xss">
+      <DependentUpon>QuanLyDiemSinhVienDataSet6.xsd</DependentUpon>
     </None>
     <None Include="Resources\36413460_906810539489936_3756694274746351616_n.jpg" />
   </ItemGroup>
