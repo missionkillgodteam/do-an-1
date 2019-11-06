@@ -12,3 +12,7 @@ D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDie
 D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Khoa.resources
 D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.MonHoc.resources
 D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Lop.resources
+D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.About.resources
+D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.QLSV.resources
+D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.QuanLyDiem.resources
+D:\Đồ Án 1\do-an-1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.QuanLyNguoiDung.resources
