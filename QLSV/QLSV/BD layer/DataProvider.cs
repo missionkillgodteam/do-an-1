@@ -10,7 +10,7 @@ namespace QLSV.BD_layer
 {
     class DataProvider
     {
-        string ConnStr = "Data Source=DESKTOP-B2TNFDV;Initial Catalog=QLSV;Integrated Security=True";
+        string ConnStr = @"Data Source=DESKTOP-24UPI8J\SQLEXPRESS;Initial Catalog=QLSV;Integrated Security=True";
         public DataTable MyExecuteQuery(string query)
         {
             DataTable data = new DataTable();
